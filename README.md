@@ -52,3 +52,6 @@
 
 thankyou for reading this till the end.
   
+## Explaination through video
+
+https://youtu.be/K51jVrjKc_c
