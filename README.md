@@ -54,4 +54,8 @@ thankyou for reading this till the end.
   
 ## Explaination through video
 
-[![thumbnail](./My First Machine Learning Project.png)](https://youtu.be/K51jVrjKc_c)
+<div align="left">
+      <a href=https://youtu.be/K51jVrjKc_c">
+         <img src="./My First Machine Learning Project.png" style="width:100%;">
+      </a>
+</div>
