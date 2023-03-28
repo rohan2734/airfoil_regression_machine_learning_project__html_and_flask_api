@@ -1,5 +1,9 @@
 # airfoil_regression_with_flask_api
 
+## Summary
+- The machine learning model is designed to accept input parameters such as frequency, angle of attack, chord length, free stream velocity, and suction side to predict pressure levels.
+- The model is made available to users via an API and can also be accessed through an HTML page that employs Flask static templates using the MVC architecture.
+
 ## Steps that I followed
 
 - Dataset - https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise 
